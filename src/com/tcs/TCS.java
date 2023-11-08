@@ -4,6 +4,10 @@ public class TCS {
 
 	public static void main(String[] args) {
 		System.out.println("Tcs is MNC company");
+		
+		System.out.println("Capgemini is also mnc");
+		
+		
 
 	}
 
