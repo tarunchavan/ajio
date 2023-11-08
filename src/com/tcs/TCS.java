@@ -7,6 +7,7 @@ public class TCS {
 		
 		System.out.println("Capgemini is also mnc");
 		
+		System.out.println("Infosys is Indian mnc");
 		
 
 	}
