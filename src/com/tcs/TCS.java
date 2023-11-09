@@ -9,6 +9,8 @@ public class TCS {
 		
 		System.out.println("Infosys is Indian mnc");
 		
+		System.out.println("Wipro is mnc");
+		
 
 	}
 
